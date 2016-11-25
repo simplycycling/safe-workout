@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	temp := // current temperature
+	temp := fmt.Fscan()
 	dewp := // current dew point
 	
 	if temp + dewp >= 150 {
